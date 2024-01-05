@@ -1,1 +1,1 @@
-Hello, this is normal purely HTML based website made as per the instructions given in the The odin project's tutorial. 
+This is pretty normal purely HTML based website made which tells about some Italian and sweet recipes. Each recipe has it's own page having description, cooked image, ingredients and steps. 
