@@ -1,0 +1,1 @@
+Hello, this is normal purely HTML based website made as per the instructions given in the The odin project's tutorial. 
